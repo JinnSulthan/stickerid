@@ -1,8 +1,8 @@
 # sticker id
 
-A BOT TO FIND ID OF A STICKER. 
+<b> This bot helps you to find I'd of a sticker. </b>
 
-THIS REPOSITORY  HAVE TWO BRANCHES FOR DEPLOY WITH COMMAND & WITHOUT COMMAND. 
+<i> This Repository has two branches with command and without command. </i>
 
 # Mandatory variables 
 
