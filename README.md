@@ -6,10 +6,10 @@
 
 # Mandatory variables 
 
-<tt>API_ID</tt> - Get It From [my.telegram.org](https://my.telegram.org)
-<tt>API_HASH</tt> - Get It From [my.telegram.org](https://my.telegram.org) 
-<tt>BOT_TOKEN</tt> - Get It From [@Botfather](https://t.me/BOTFATHER)
-<tt>CHANNEL</tt> - For Just adding your bot updates channel. 
+- <tt>API_ID</tt> - Get It From [my.telegram.org](https://my.telegram.org)
+- <tt>API_HASH</tt> - Get It From [my.telegram.org](https://my.telegram.org) 
+- <tt>BOT_TOKEN</tt> - Get It From [@Botfather](https://t.me/BOTFATHER)
+- <tt>CHANNEL</tt> - For Just adding your bot updates channel. 
 
 
 
