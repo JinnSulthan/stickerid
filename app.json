@@ -1,7 +1,7 @@
 {
     "name": "sticker id",
     "description": "A bot to find id of a sticker.",
-    "repository": "https://Github.com/MR-JINN-OF-TG/Stickerid",
+    "repository": "https://github.com/JinnSulthan/Stickerid",
     "keywords": [
         "bot",
         "stickerid",
@@ -19,7 +19,7 @@
         },
         "CHANNEL": {
             "description": "Your Channel Username Without @",
-            "value": "nazriyanazeem"
+            "value": "telegram"
         }
     },
     "buildpacks": [
