@@ -1,3 +1,8 @@
+# Use it as your purpose I don't care. Kang and give a new birth to your bot codes......
+# it's v2 of Older one
+# Follow me on github.
+
+
 import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
@@ -12,9 +17,9 @@ app = Client(
  
    
 START_TEXT = """
-Hai {},
+<i>Hai {},
 Am Sticker id Finder Bot
-I can Find I'd of an sticker. Just send me a sticker and reply it with /StickerId command i would provide its I'd. . 
+I can Find I'd of an sticker. Just send me a sticker and reply it with /StickerId command i would provide its I'd. . </i>
 """
     
 @app.on_message(filters.private & filters.command(["start"]))
