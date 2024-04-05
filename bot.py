@@ -45,4 +45,4 @@ async def stickers(bot, message):
     else:
         await message.reply("Are you challenging me!\n reply to a sticker instead.")
 
-Bot.run()
+app.run()
