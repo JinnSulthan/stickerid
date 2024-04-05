@@ -1,6 +1,6 @@
 # sticker id
 
-A BOT TO FIND ID OF A STICKER. 
+<i>A BOT TO FIND ID OF A STICKER. </i>
 
 
 # Mandatory variables 
@@ -15,10 +15,10 @@ A BOT TO FIND ID OF A STICKER.
 # Feautures 
 
 - Finds I'd of a sticker. . 
-- Works on bot Bot PM and Chats..
+- Works on Bot PM and Chats..
 - If you need more features add as your wish..
  
 
 ##### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-JINN-OF-TG/Stickerid/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JinnSulthan/Stickerid/tree/main)
