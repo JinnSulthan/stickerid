@@ -2,7 +2,6 @@
 
 A BOT TO FIND ID OF A STICKER. 
 
-THIS REPOSITORY  HAVE TWO BRANCHES FOR DEPLOY WITH COMMAND & WITHOUT COMMAND. 
 
 # Mandatory variables 
 
@@ -16,13 +15,10 @@ THIS REPOSITORY  HAVE TWO BRANCHES FOR DEPLOY WITH COMMAND & WITHOUT COMMAND.
 # Feautures 
 
 - Finds I'd of a sticker. . 
-
+- Works on bot Bot PM and Chats..
+- If you need more features add as your wish..
  
- 
 
-##### Deploy - without Command
+##### Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-JINN-OF-TG/Stickerid/tree/main)
-
-##### Deploy - with Command
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-JINN-OF-TG/stickerid/tree/Command)
